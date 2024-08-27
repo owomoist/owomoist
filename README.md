@@ -1,5 +1,4 @@
 Hello, my name is Seojin
-I like to meme with the boys
 
 
 <!---
